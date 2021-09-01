@@ -1,0 +1,22 @@
+/* can change background color of different parts by changing name of tag */
+body {
+  /* this is a css comment */
+  /*sets background color */
+  background-color: #2d76c4;
+}
+
+p {
+  background-color: #92f7d7;
+}
+
+ul {
+  background-color: #92f7d7;
+}
+
+a {
+  background-color: #92f7d7;
+}
+
+button {
+  background-color: #92f7d7;
+}
