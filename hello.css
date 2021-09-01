@@ -19,5 +19,6 @@ a {
 
 button {
   background-color: #92f7d7;
-  padding: 15px 32px;
+  padding: 30px 50px;
+  border-radius: 10px;
 }
