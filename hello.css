@@ -11,6 +11,7 @@ p {
 
 ul {
   background-color: #92f7d7;
+  width: 350px;
 }
 
 a {
@@ -21,4 +22,5 @@ button {
   background-color: #92f7d7;
   padding: 30px 50px;
   border-radius: 10px;
+  font-size: 20px;
 }
